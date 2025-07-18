@@ -55,7 +55,7 @@ This project performs *cryptocurrency price analysis* using Python for data coll
 
 Main entry point of the dashboard with buttons to navigate to detailed analysis views:
 
-![Homepage Navigation](assets/home.jpg)
+![Homepage Navigation](assets/Home.jpg)
 
 ---
 
