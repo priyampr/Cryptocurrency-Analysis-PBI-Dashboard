@@ -55,7 +55,7 @@ This project performs *cryptocurrency price analysis* using Python for data coll
 
 Main entry point of the dashboard with buttons to navigate to detailed analysis views:
 
-![Homepage Navigation](screenshots/homepage.jpg)
+![Homepage Navigation](assets/home.jpg)
 
 ---
 
@@ -63,7 +63,7 @@ Main entry point of the dashboard with buttons to navigate to detailed analysis 
 
 Shows closing prices (Final, High, Low), 30-day moving average, and volume over time:
 
-![Dashboard Overview](screenshots/1000081548.jpg)
+![Dashboard Overview](assets/Cryptocurrency_Dashboard.jpg)
 
 ---
 
@@ -71,7 +71,7 @@ Shows closing prices (Final, High, Low), 30-day moving average, and volume over 
 
 Compares all cryptocurrencies side-by-side with metrics like % change and average daily volume. Includes best and worst performers over different timeframes:
 
-![Price Comparison](screenshots/1000081550.jpg)
+![Price Comparison](assets/Cryptocurrency_Pricing.jpg)
 
 ---
 
@@ -79,7 +79,7 @@ Compares all cryptocurrencies side-by-side with metrics like % change and averag
 
 Full cryptocurrency time-series comparison and *price correlation matrix* for cross-analysis:
 
-![Overall Analysis](screenshots/1000081551.jpg)
+![Overall Analysis](assets/Overall_Analysis.jpg)
 
 ---
 
